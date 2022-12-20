@@ -1,7 +1,10 @@
 # React приложение по отрисовке товаров, с возможностью просмотра детального описания.
 
-Использовал OMDP rest API [ссылка на API](http://www.omdbapi.com/)
+Использовал Fake store rest API [ссылка на API](https://fakestoreapi.com/)
 
 ## В проекте использовал библиотеки
 
-* materialize
+* react-router-dom
+* typescript
+* axios
+* tailwindcss
